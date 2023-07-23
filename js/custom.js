@@ -1,4 +1,4 @@
-document.querySelector('.contact_us').addEventListener('click', function(e) {
+/* document.querySelector('.contact_us').addEventListener('click', function(e) {
     e.preventDefault();
     console.log("ksjldşksş");
     
@@ -12,3 +12,6 @@ document.querySelector('.contact_us').addEventListener('click', function(e) {
   });
   
 
+ */
+
+ 
