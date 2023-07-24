@@ -6,7 +6,7 @@ body {
 }
 
 .layout_padding {
-  padding: 90px 0;
+  padding: 60px 0;
 }
 
 .layout_padding2 {
@@ -79,7 +79,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  height: 100vh;
+  height: 65vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1291,4 +1291,10 @@ width: 20px;
   padding: 10px 35px;
   background-color: #f07b26;
   border-radius: 8px;
+}
+
+@media only screen and (max-width: 770px){
+  .detail-box p {
+    font-size: 13px;
+  }
 }
